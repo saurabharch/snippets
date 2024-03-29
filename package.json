@@ -44,7 +44,7 @@
     "firebase": "^3.2.1",
     "firebase-token-generator": "^2.0.0",
     "google-material-color": "^1.2.6",
-    "gulp": "^3.8.11",
+    "gulp": "^5.0.0",
     "gulp-babel": "^6.1.2",
     "gulp-concat": "^2.5.2",
     "gulp-eslint": "^0.14.0",
